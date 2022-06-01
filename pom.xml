@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>release-snapshot-4</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>release-snapshot-4</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -30,7 +30,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:august389/release-snapshot.git</developerConnection>
-		<tag>release-snapshot-4-0.0.1</tag>
+		<tag>release-snapshot-4-0.0.2</tag>
 	</scm>
 
 	<build>
